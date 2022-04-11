@@ -22,6 +22,7 @@ android application. The main purpose of this project is used to reduce the deat
 human and to provide the maximum assistance while accident occurs.
 
  STATEMENT OF THE PROBLEM
+
 Every day, hundreds of road accidents occur across the country. Road accidents occur 
 for variety of reasons. Speeding is the most common cause of road accidents in the country. It 
 is essential for motorists to be aware of the speed at which they’re travelling and stay within 
@@ -55,7 +56,10 @@ OBJECTIVES
 
 ➢ To find the vehicle where it is and locates the vehicle by means of sending a message 
 using a system which is placed inside of vehicle system.
+
 ➢ Accelerometer detects the sudden change in the axes of vehicle.
+
 ➢ If accident takes place, quick transmission of message to concerned authority.
+
 ➢ Location of accident is sent in the form of Google Map link, derived from the latitude 
 and longitude from GPS module. 
