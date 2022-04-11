@@ -1,0 +1,18 @@
+Now a days, nobody in this world is ready to look what’s happening around them. Even 
+though, if any accident occurs no one cares about it. This is an intention to implement an 
+innovative solution for this problem by developing a Vehicle Accident detection and Alerting 
+System from the accident zone. With the growing population the use of vehicle as became 
+superfluous and this has led to increase in the number of accidents at the alarm rate. The 
+project Vehicle Accident Detection and Alerting System aims at detecting the vehicle accident 
+and reporting the location of accident to the concerned authority through android application 
+. This helps in a speedy service from the ambulance and the police station. In case of accident, 
+if the vehicle is hit to some other vehicle or an object then there will be a push button inside 
+the car. This push button should be used by the driver. If the accident is very normal, or driver 
+has just hit the wall in some situations like parking then driver has to press the push button 
+before 1 minute. This will inform the Arduino board that this is a very normal accident and 
+then system will not send notification. But if driver is not in situation to press the push button 
+or if the accident is really a major accident then driver will not press the button and then 
+immediately alert message is sent with the exact location of accident to the concerned authority 
+such as police station and ambulance. The GPS technology is used to locate the position of the 
+vehicle and sends it through app. The main objective of vehicle accident detection and alerting 
+system is to save person’s life. 
