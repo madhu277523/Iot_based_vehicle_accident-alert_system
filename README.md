@@ -31,6 +31,7 @@ police authority is not informed in time. This result in delaying the help reach
 suffered due to accident. Our project is designed to avoid such situation.
 
 MOTIVATIONS
+
 A large number of people deaths due to car accidents every day. There are some of 
 reasons for which an accident can occur such as lack of training institute, use of mobile phone 
 while driving the car, unskilled drivers, bad road condition, overloading and poor traffic 
@@ -40,15 +41,18 @@ Our project car accident detection and alerting system with GPS is designed to a
 situations. 
 
 CHALLENGES
+
 ➢ Detecting accident forces without electronic control unit interaction is not possible
 ➢ It does not work without network.
 
  BENIFITS
+
 ➢ Faster Intimation to the right authority 
 ➢ Easy detection of accident
 ➢ Provide the solution for identifying the accident location
 
 OBJECTIVES
+
 ➢ To find the vehicle where it is and locates the vehicle by means of sending a message 
 using a system which is placed inside of vehicle system.
 ➢ Accelerometer detects the sudden change in the axes of vehicle.
